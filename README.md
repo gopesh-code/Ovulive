@@ -36,13 +36,13 @@ The app will be based primarily on Android given that iOS already has its own he
 
 ## Team Members
 
-The project is being prepared under the supervision of Prof. Manoov R by the following team members:
+The project is being prepared under the supervision of Prof. Manoov R by the following team members:\
 
-Shruti Pandey (20BCE0665)
-Gopesh Kumar Pathak (20BCE2870)
-Nithin Bharath Kumar (20BCE0790)
-Adam Nellissery Jijo (20BCI0077)
-Angela Mathews (20BCI0140)
+Shruti Pandey (20BCE0665)\
+Gopesh Kumar Pathak (20BCE2870)\
+Nithin Bharath Kumar (20BCE0790)\
+Adam Nellissery Jijo (20BCI0077)\
+Angela Mathews (20BCI0140)\
 
 ## School
 
