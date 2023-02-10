@@ -42,7 +42,7 @@ Shruti Pandey (20BCE0665)\
 Gopesh Kumar Pathak (20BCE2870)\
 Nithin Bharath Kumar (20BCE0790)\
 Adam Nellissery Jijo (20BCI0077)\
-Angela Mathews (20BCI0140)\
+Angela Mathews (20BCI0140)
 
 ## School
 
