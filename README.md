@@ -1,6 +1,6 @@
 
 # Team-Earth
-Olive (Ovulive) - A multi-functional platform focusing on a holistic approach in female healthcare.
+Olive (Ovulive) - A multi-functional platform focusing on a holistic approach towards female healthcare.
 
 ## Team Members
 
