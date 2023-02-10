@@ -55,6 +55,10 @@ Combines multiple functions: The multifunctional nature of Olive allows women to
 - Device sensors and APIs: For tracking menstrual health data.
 - Test devices: Smartphones or tablets running Android or iOS.
 
+## Work Breakdown Structure
+
+
+
 ## Progress Status
 
 **Project** | **Status** | **Notes**
@@ -72,4 +76,44 @@ Testing | `Not Started` | To be started once the application is deployed.
 
 The app will be based primarily on Android given that iOS already has its own health app which has multiple features within itself, but the overall idea will be based on improving those features and bringing in better novelties into the product, and then creating an iOS alternative for the same. For the tech stack, the team will be trying to create a cross-platform app through React Native or Xamarin, or Flutter, depending on the complexities of the functionalities of the application. Figma and Adobe XD will be used for prototyping and initial display. The expected completion time for the project is 3.5-4.5 months with most of the functionalities expected to be fulfilled.
 
+## Functionalities (Discussed upon)
+
+- Mood Tracker:
+  - Users can track their moods and emotions along with their menstrual cycle data to better understand the relationship between them.
+- Symptom Tracker:
+  - Users can track physical symptoms such as cramps, headaches, bloating, etc. along with their menstrual cycle data.
+- Cycle Comparison:
+  - Users can compare their current cycle data with previous cycles to track changes and trends over time.
+- Fertility Tracker:
+  - Users can track their fertile days and ovulation to plan or prevent pregnancy.
+- Community:
+  - Users can connect with other women who use the application to share experiences and support each other.
+- Health and Wellness Integrations:
+  - The application can integrate with other health and wellness apps to provide a more comprehensive view of the user's overall health.
+- Language Support:
+  - The application can support multiple languages to reach a wider audience and make it accessible to users with different language preferences.
+- Medication Reminder:
+  - Users can set reminders for taking medication or other treatments related to their menstrual cycle.
+- Period Predictor:
+  - The application can predict the start and end date of the user's next period based on the data entered for previous cycles.
+- Cycle History:
+  - Users can view a detailed history of their menstrual cycles, including dates, symptoms, moods, etc.
+- Health Reports:
+  - The application can generate personalized health reports based on the user's menstrual data and other health information.
+- Integration with Health Providers:
+  - The application can integrate with healthcare providers, clinics, or hospitals to allow users to share their menstrual cycle data with their doctors.
+- Menstrual Cycle Log:
+  - Users can log specific details about their menstrual cycle, including flow intensity, pain levels, and more.
+- Personalized Insights:
+  - The application can provide personalized insights and recommendations based on the user's menstrual cycle data, lifestyle factors, and more.
+- Educational Content:
+  - The application can provide educational content on menstrual health, fertility, and other related topics.
+  - This can include articles, videos, infographics, and more to help users learn more about their bodies and menstrual health.
+- Pregnancy Tracker:
+  - Users can track their pregnancy journey and monitor symptoms and changes related to their pregnancy.
+- Menstrual Cup Management:
+  - Users can track the usage of menstrual cups and receive reminders for cleaning and replacement.
+- User Groups:
+  - Users can join or create groups with others who have similar menstrual cycle experiences or interests.
+  - This can provide a supportive community for users and allow them to connect with others for support and advice.
 
