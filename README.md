@@ -28,3 +28,16 @@ Addresses a real need: Menstrual health is an important aspect of women's health
 Utilizes technology to solve a problem: Technology can be used to improve people's lives in many ways, and this project is a prime example of that. The application provides a convenient and accessible way for women to track and manage their menstrual health, and the blogs and forums provide a platform for women to connect with others and access helpful information and support.
 
 Combines multiple functions: The multifunctional nature of Olive allows women to track their menstrual cycle and manage their health, as well as connect with others and access helpful resources, all in one place.
+
+Team Members
+The project is being prepared under the supervision of Prof. Manoov R by the following team members:
+
+Shruti Pandey (20BCE0665)
+Gopesh Kumar Pathak (20BCE2870)
+Nithin Bharath Kumar (20BCE0790)
+Adam Nellissery Jijo (20BCI0077)
+Angela Mathews (20BCI0140)
+
+School
+
+School of Computer Science and Engineering, Vellore Institute of Technology, Vellore.
