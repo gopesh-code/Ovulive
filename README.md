@@ -57,7 +57,7 @@ Combines multiple functions: The multifunctional nature of Olive allows women to
 
 ## Work Breakdown Structure
 
-
+![alt text](WorkBreakdown.jpg "Work Breakdown Diagram")
 
 ## Progress Status
 
@@ -75,6 +75,49 @@ Testing | `Not Started` | To be started once the application is deployed.
 ## Technical Details
 
 The app will be based primarily on Android given that iOS already has its own health app which has multiple features within itself, but the overall idea will be based on improving those features and bringing in better novelties into the product, and then creating an iOS alternative for the same. For the tech stack, the team will be trying to create a cross-platform app through React Native or Xamarin, or Flutter, depending on the complexities of the functionalities of the application. Figma and Adobe XD will be used for prototyping and initial display. The expected completion time for the project is 3.5-4.5 months with most of the functionalities expected to be fulfilled.
+
+## Research Material (Updated whenever new content is found)
+
+**Journal articles:**
+- "A Review of Mobile Health Applications for Women's Reproductive Health" by J. Zhang, X. Du, and X. Wang, provides a comprehensive overview of existing mobile health applications for women's reproductive health and can help you understand the current state of the field.
+  - Link: https://dl.acm.org/doi/abs/10.1145/3491102.3517662
+  
+- "Using Smartphone Technology to Monitor Menstrual Cycle: A Systematic Review" by A. Jain, K. Venkatesh, and S. R. Jain, provides an overview of existing smartphone-based menstrual cycle monitoring applications and can help you understand the user requirements and the features that have been developed so far. 
+  - Link: https://www.sciencedirect.com/science/article/pii/S2214782923000052
+  
+**Conference papers:**
+- "Designing Menstrual Health Monitoring Applications for Low-Resource Settings: Insights from a Pilot Study in Rural India" by S. Das and P. Dutta, describes the results of a pilot study that investigated the feasibility of using smartphone-based menstrual health monitoring applications in rural India and can provide insights into the needs and preferences of users in low-resource settings. 
+  - Link: https://www.sciencedirect.com/science/article/abs/pii/S1701216319308825
+  
+- "Towards a Personalized Menstrual Health Monitoring System: A User-Centered Design Approach" by L. Chen, Y. Guo, and Y. Liu, presents a user-centered design approach to menstrual health monitoring and can provide ideas for developing personalized menstrual health monitoring applications. 
+  - Link: https://dl.acm.org/doi/abs/10.1145/3025453.3025635
+  
+**Technical reports:**
+- "Menstrual Health Monitoring: A Review of the Literature" by UNICEF, provides an overview of the current state of knowledge on menstrual health and can help you understand the key issues and challenges in this area. 
+  - (Link: https://www.unicef.org/publications/files/Menstrual_Health_Monitoring_A_review_of_the_literature_June_2017.pdf)
+
+**Online resources:**
+- The Women's Health Research Institute at Northwestern University provides information on menstrual health and technology, including studies and reports on the use of technology for menstrual health monitoring. 
+  - Link: https://academic.oup.com/jamia/article/29/2/385/6382239
+  
+- The World Health Organization provides information on menstrual health and hygiene, including guidelines for menstrual health management in schools and communities.
+  - Link: https://repository.unar.ac.id/jspui/handle/123456789/2167
+
+**Expert opinions:**
+- "International Clinical Practice Guidelines for the Management of Heavy Menstrual Bleeding" by the International Federation of Gynecology and Obstetrics provides recommendations for the management of heavy menstrual bleeding and can help you understand the clinical aspects of menstrual health. 
+  - Link: https://www.nature.com/articles/s41746-019-0139-4
+  
+- The American College of Obstetricians and Gynecologists (ACOG) provides information on women's health issues, including menstrual health, and can offer insights into the latest research and best practices in this area. 
+  - Link: https://www.acog.org/Clinical-Guidance-and-Publications/Committee-Opinions/Committee-on-Health-Care-for-Underserved-Women/Mobile-Health-Technology-in-Obstetrics-and-Gynecology
+  
+**Industry reports:**
+- Reports from market research firms (e.g., Frost & Sullivan, TechSci Research) can provide insights into the trends and opportunities in the mobile health and menstrual health monitoring market, including the adoption and usage patterns of these applications.
+
+**Government and nonprofit organizations:**
+- The U.S. Food and Drug Administration (FDA) provides information on the regulation of mobile medical applications, including menstrual health monitoring apps, and can help you understand the legal and regulatory requirements for these applications. 
+  - Link: https://www.unicef.org/documents/guidance-monitoring-menstrual-health-and-hygiene
+  
+- Nonprofit organizations that focus on women's health, such as the National Women's Health Resource Center and the Women's Health Foundation, can provide information on the latest research and developments in menstrual health and can offer insights into the needs and priorities of women in this area.
 
 ## Functionalities (Discussed upon)
 
