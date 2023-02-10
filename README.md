@@ -16,6 +16,38 @@ Angela Mathews (20BCI0140)
 
 School of Computer Science and Engineering, Vellore Institute of Technology, Vellore.
 
+## Project Workflow
+
+**Tools Used**
+- GitHub
+- GitHub Desktop / GitHub CLI
+- Zotero
+- Obsidian
+- VSCode
+- Moodle
+- WhatsApp
+- Jira
+
+**Workflow**
+  - We plan on collaborating on code and documentation over GitHub using either GitHub CLI/GitHub Desktop locally. Zotero will be used for keeping track of references, Obsidian for editing Markdown files and maintaining personal knowledge bases and VSCode for writing code.
+Moodle will be used for submissions and communication with the professor, while WhatsApp will be used as the primary means of communication between our group members. Meanwhile Jira will be used to keep track of deadlines and project management.
+The Jira board has also been created to keep track of issues that need to be worked on and assigning contributions. It is also synced with GitHub so that issues can be resolved automatically when a relevant commit is made.
+
+![alt text](WorkBreakdown.jpg "Work Breakdown Diagram")
+
+## Progress Overview
+
+**Project** | **Status** | **Notes**
+--- | --- | ---
+Project Title and Purpose | `Completed` | The idea suggested by Gopesh and after consideration along with a discussion on the topic and also comparing the 2 ideas that were presented, we moved on with this one and concluded to move ahead with the next part of the process.
+Research | `Launched` | All members will be researching various already deployed applications which would help in building the general concept and functionalities the app would need. Also, what features users will be expecting from Ovulive. Not only this but the drawbacks which other apps already have will be discussed and tried to resolve.
+Features/Functionalities | `Launched` | All the features we require in the app, are put forward by all the members of the group, and implementation of the same is discussed. This is a research-oriented process and would be completed as the project moves ahead.
+Design and Layout | `Planning` | The General UI/UX layout will be created once the functionalities are finalized, Angela along with Shruti will work on a suitable UI design for a cross-platform application (Android & IOS).
+Website | `Yet to negin` | Nithin would be focusing on the initial website which would display the idea and concept of the application and then the deployment would be aided by Gopesh and Adam.
+Front-End Development | `Not Started` | Once all the features/functionalities and requirements are discussed and finalized, Angela, Adam, Gopesh, Nithin, Shruti will be working on the front end (Client-side) of the application to complete each page of the application. This part of the project should take around 25 days – 1.5 months (depending on the functionalities).
+Back-End Development | `Not Started` | Gopesh and Adam will work on the back-end (server-side) part of the project which will span over a month and a half. Apart from this, setting up the database would be Nithin, Gopesh, and Adam’s part.
+Testing | `Not Started` | To be started once the application is deployed.
+
 ## Project Overview
 
 Olive (Ovulive) is a multi-functional platform focusing on a holistic approach in female healthcare. It is estimated that females make up about 49.58% of the world population, and it is crucial to take precautions to shield the reproductive health against infections, damage, and issues, including specific long-term health issues. The aim of Olive is to provide a solution in the form of an app, by creating a platform that will provide the following:
@@ -54,23 +86,6 @@ Combines multiple functions: The multifunctional nature of Olive allows women to
 - Charting libraries: To display menstrual cycle data. Examples: react-native-chart-kit, react-native-charts-wrapper, react-native-highcharts.
 - Device sensors and APIs: For tracking menstrual health data.
 - Test devices: Smartphones or tablets running Android or iOS.
-
-## Work Breakdown Structure
-
-![alt text](WorkBreakdown.jpg "Work Breakdown Diagram")
-
-## Progress Status
-
-**Project** | **Status** | **Notes**
---- | --- | ---
-Project Title and Purpose | `Completed` | The idea suggested by Gopesh and after consideration along with a discussion on the topic and also comparing the 2 ideas that were presented, we moved on with this one and concluded to move ahead with the next part of the process.
-Research | `Launched` | All members will be researching various already deployed applications which would help in building the general concept and functionalities the app would need. Also, what features users will be expecting from Ovulive. Not only this but the drawbacks which other apps already have will be discussed and tried to resolve.
-Features/Functionalities | `Launched` | All the features we require in the app, are put forward by all the members of the group, and implementation of the same is discussed. This is a research-oriented process and would be completed as the project moves ahead.
-Design and Layout | `Planning` | The General UI/UX layout will be created once the functionalities are finalized, Angela along with Shruti will work on a suitable UI design for a cross-platform application (Android & IOS).
-Website | `Yet to negin` | Nithin would be focusing on the initial website which would display the idea and concept of the application and then the deployment would be aided by Gopesh and Adam.
-Front-End Development | `Not Started` | Once all the features/functionalities and requirements are discussed and finalized, Angela, Adam, Gopesh, Nithin, Shruti will be working on the front end (Client-side) of the application to complete each page of the application. This part of the project should take around 25 days – 1.5 months (depending on the functionalities).
-Back-End Development | `Not Started` | Gopesh and Adam will work on the back-end (server-side) part of the project which will span over a month and a half. Apart from this, setting up the database would be Nithin, Gopesh, and Adam’s part.
-Testing | `Not Started` | To be started once the application is deployed.
 
 ## Technical Details
 
