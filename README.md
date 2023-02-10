@@ -29,7 +29,8 @@ Utilizes technology to solve a problem: Technology can be used to improve people
 
 Combines multiple functions: The multifunctional nature of Olive allows women to track their menstrual cycle and manage their health, as well as connect with others and access helpful resources, all in one place.
 
-Team Members
+## Team Members
+
 The project is being prepared under the supervision of Prof. Manoov R by the following team members:
 
 Shruti Pandey (20BCE0665)
@@ -38,6 +39,6 @@ Nithin Bharath Kumar (20BCE0790)
 Adam Nellissery Jijo (20BCI0077)
 Angela Mathews (20BCI0140)
 
-School
+## School
 
 School of Computer Science and Engineering, Vellore Institute of Technology, Vellore.
