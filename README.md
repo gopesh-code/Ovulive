@@ -1,3 +1,3 @@
-# Team-Earth
+# Olive (Ovulive)
 
-Olive (Ovulive)
+Team Earth
