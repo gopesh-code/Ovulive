@@ -129,6 +129,7 @@ The app will be based primarily on Android given that iOS already has its own he
   
 **Industry reports:**
 - Reports from market research firms (e.g., Frost & Sullivan, TechSci Research) can provide insights into the trends and opportunities in the mobile health and menstrual health monitoring market, including the adoption and usage patterns of these applications.
+  - Link: https://www.mordorintelligence.com/industry-reports/menstrual-health-apps-market
 
 **Government and nonprofit organizations:**
 - The U.S. Food and Drug Administration (FDA) provides information on the regulation of mobile medical applications, including menstrual health monitoring apps, and can help you understand the legal and regulatory requirements for these applications. 
