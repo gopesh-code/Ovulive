@@ -101,8 +101,8 @@ The app will be based primarily on Android given that iOS already has its own he
   - Link: https://www.sciencedirect.com/science/article/pii/S2214782923000052
   
 **Conference papers:**
-- "Designing Menstrual Health Monitoring Applications for Low-Resource Settings: Insights from a Pilot Study in Rural India" by S. Das and P. Dutta, describes the results of a pilot study that investigated the feasibility of using smartphone-based menstrual health monitoring applications in rural India and can provide insights into the needs and preferences of users in low-resource settings. 
-  - Link: https://www.sciencedirect.com/science/article/abs/pii/S1701216319308825
+- "Interaction Design of Fertility Tracking Application Using User-Centered Design" by M. Faizatti and F. Arifiansyah, specifies that the purpose of this study is to develop an interaction design that can serve both typical and unusual FTA users. User input in the form of feedback forms drives iterations of the design process because the design methodology is user-centered design. 
+  - Link: https://ieeexplore.ieee.org/abstract/document/9971817/
   
 - "Towards a Personalized Menstrual Health Monitoring System: A User-Centered Design Approach" by L. Chen, Y. Guo, and Y. Liu, presents a user-centered design approach to menstrual health monitoring and can provide ideas for developing personalized menstrual health monitoring applications. 
   - Link: https://dl.acm.org/doi/abs/10.1145/3025453.3025635
