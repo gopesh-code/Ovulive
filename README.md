@@ -85,7 +85,7 @@ Combines multiple functions: The multifunctional nature of Olive allows women to
 - Firebase or another backend service: For storing and retrieving data.
 - Charting libraries: To display menstrual cycle data. Examples: react-native-chart-kit, react-native-charts-wrapper, react-native-highcharts.
 - Device sensors and APIs: For tracking menstrual health data.
-- Test devices: Smartphones or tablets running Android or iOS.
+- Test devices: Smartphones or tablets running Android or iOS
 
 ## Technical Details
 
