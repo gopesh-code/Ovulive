@@ -110,8 +110,8 @@ The app will be based primarily on Android given that iOS already has its own he
   - Link: https://www.sciencedirect.com/science/article/abs/pii/S1701216319308825
   
 **Technical reports:**
-- "Menstrual Health Monitoring: A Review of the Literature" by UNICEF, provides an overview of the current state of knowledge on menstrual health and can help you understand the key issues and challenges in this area. 
-  - (Link: https://www.unicef.org/publications/files/Menstrual_Health_Monitoring_A_review_of_the_literature_June_2017.pdf)
+- "Menstrual Hygiene ManagementProgramming in Maharashtra: The journey of a decade" by UNICEF, provides an overview of the current state of knowledge on menstrual health and can help you understand the key issues and challenges in this area. 
+  - (Link: https://www.unicef.org/rosa/media/11831/file)
 
 **Online resources:**
 - The Women's Health Research Institute at Northwestern University provides information on menstrual health and technology, including studies and reports on the use of technology for menstrual health monitoring. 
