@@ -136,6 +136,7 @@ The app will be based primarily on Android given that iOS already has its own he
   - Link: https://www.unicef.org/documents/guidance-monitoring-menstrual-health-and-hygiene
   
 - Nonprofit organizations that focus on women's health, such as the National Women's Health Resource Center and the Women's Health Foundation, can provide information on the latest research and developments in menstrual health and can offer insights into the needs and priorities of women in this area.
+  - Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7013590/
 
 ## Functionalities (Discussed upon)
 
