@@ -94,13 +94,12 @@ The app will be based primarily on Android given that iOS already has its own he
 ## Research Material (Updated whenever new content is found)
 
 **Journal articles:**
-- "Smartphone apps for menstrual pain and symptom management: A scoping review" by Lindsey C.M. Tr ́epanier a,  ́Elisabeth Lamoureux b, Sarah E. Bjornson a, Cayley Mackie a
+- "Smartphone apps for menstrual pain and symptom management: A scoping review" by L. Trepanier,  ́E. Lamoureux, and S. Bjornson contains an extensive survey of 119 iOS menstrual applications. Through this survey it was made clear that very few apps have freely available intervention content and even the available content was of fairly low quality. There was also a general trend in the apps being unscientific, for example using pain assessment measures that haven't been validated (pictoral rating scale, checkmarks, etc), and even when they offered evidence based approaches like yoga or exercise, there was still no evidence that the content itself aligned with modern research or was reviewed by a professional. Lack of inclusivity was also observed since more than half the apps used feminine design aesthetics, which are found to be distressing to people who menstruate and do not identify as women, and even people who identify as women have been found to find these designs condescending and undesirable.
   - Link: https://www.sciencedirect.com/science/article/pii/S2214782923000052
+
 - "A Review of Mobile Health Applications for Women's Reproductive Health" by J. Zhang, X. Du, and X. Wang, provides a comprehensive overview of existing mobile health applications for women's reproductive health and can help you understand the current state of the field.
   - Link: https://dl.acm.org/doi/abs/10.1145/3491102.3517662
-  
-- "Using Smartphone Technology to Monitor Menstrual Cycle: A Systematic Review" by A. Jain, K. Venkatesh, and S. R. Jain, provides an overview of existing smartphone-based menstrual cycle monitoring applications and can help you understand the user requirements and the features that have been developed so far. 
-  - Link: https://www.sciencedirect.com/science/article/pii/S2214782923000052
+
   
 **Conference papers:**
 - "Designing Menstrual Health Monitoring Applications for Low-Resource Settings: Insights from a Pilot Study in Rural India" by S. Das and P. Dutta, describes the results of a pilot study that investigated the feasibility of using smartphone-based menstrual health monitoring applications in rural India and can provide insights into the needs and preferences of users in low-resource settings. 
