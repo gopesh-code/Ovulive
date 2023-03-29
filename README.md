@@ -118,7 +118,7 @@ The app will be based primarily on Android given that iOS already has its own he
   - Link: https://academic.oup.com/jamia/article/29/2/385/6382239
   
 - The World Health Organization provides information on menstrual health and hygiene, including guidelines for menstrual health management in schools and communities.
-  - Link: https://repository.unar.ac.id/jspui/handle/123456789/2167
+  - Link: https://www.unicef.org/media/91341/file/UNICEF-Guidance-menstrual-health-hygiene-2019.pdf
 
 **Expert opinions:**
 - "International Clinical Practice Guidelines for the Management of Heavy Menstrual Bleeding" by the International Federation of Gynecology and Obstetrics provides recommendations for the management of heavy menstrual bleeding and can help you understand the clinical aspects of menstrual health. 
