@@ -94,6 +94,8 @@ The app will be based primarily on Android given that iOS already has its own he
 ## Research Material (Updated whenever new content is found)
 
 **Journal articles:**
+- "Smartphone apps for menstrual pain and symptom management: A scoping review" by Lindsey C.M. Tr ́epanier a,  ́Elisabeth Lamoureux b, Sarah E. Bjornson a, Cayley Mackie a
+  - Link: https://www.sciencedirect.com/science/article/pii/S2214782923000052
 - "A Review of Mobile Health Applications for Women's Reproductive Health" by J. Zhang, X. Du, and X. Wang, provides a comprehensive overview of existing mobile health applications for women's reproductive health and can help you understand the current state of the field.
   - Link: https://dl.acm.org/doi/abs/10.1145/3491102.3517662
   
