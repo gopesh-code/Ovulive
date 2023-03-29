@@ -144,6 +144,7 @@ The app will be based primarily on Android given that iOS already has its own he
   - Users can track their moods and emotions along with their menstrual cycle data to better understand the relationship between them.
 - Symptom Tracker:
   - Users can track physical symptoms such as cramps, headaches, bloating, etc. along with their menstrual cycle data.
+  - validated pain assessment measure (10 point rating scale/verbal rating scale)
 - Cycle Comparison:
   - Users can compare their current cycle data with previous cycles to track changes and trends over time.
 - Fertility Tracker:
@@ -178,4 +179,20 @@ The app will be based primarily on Android given that iOS already has its own he
 - User Groups:
   - Users can join or create groups with others who have similar menstrual cycle experiences or interests.
   - This can provide a supportive community for users and allow them to connect with others for support and advice.
-
+- Pain Management Intervention Content
+  - free, high-quality intervention content
+  - evidence based approaches (yoga, exercise, nutrition) for pain management
+  - meditation and mindfulness content
+- User Profile
+  - trying to get pregnant (conservative estimates for fertile window) or using app as contraceptive method (overestimates for fertile window)
+  - stage in life (post-natal, peri-menopause, newly menstruating)
+- Offline-only Mode
+  - store as much data offline and ensure app can function offline
+  - opt-in telemetry
+- User Centric Design
+  - user centric, gender neutral design
+  - process to collect user feedback
+  - allow user to select features they want to track
+- Aid with user anxiety
+  - when irregular periods, reassure users that irregular periods are common and not necessarily indicator of bad health
+  - show common symptoms associated with current cycle
