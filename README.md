@@ -33,6 +33,14 @@ A period prediction algorithm can be a valuable addition to the growing field of
 
 - Support Vector Regression (SVR): Support Vector Regression is a powerful algorithm for menstrual prediction models that can accurately predict the length of menstrual cycles based on historical data. SVR requires data preparation, feature engineering, model training, model evaluation, hyperparameter tuning, and model deployment. SVR models can be created using machine learning libraries such as scikit-learn in Python, and hyperparameters such as the kernel type, regularization parameter, and epsilon need to be tuned to optimize the model’s performance.
 
+## Tools used
+- Pandas is a popular data manipulation library in Python that provides data structures such as DataFrame and Series, which are useful for handling and processing large datasets.
+
+- Scikit-learn is a popular machine learning library in Python that provides a wide range of algorithms for classification, regression, clustering, and other machine learning tasks.
+
+- Jupyter Notebook is an open-source web-based environment that allows for the creation and sharing of live code, equations, visualizations, and narratives in a single document.
+
+- Jupyter Notebook allows for easy collaboration and sharing of code and results, making it a useful tool for interdisciplinary teams working on menstrual prediction projects.
 
 ## Analysis
 We used the Menstrual Cycle Data (Fehring, Richard 2012) for our analysis. While there was less data than we would have liked to have, it was the best option we found due to the severe lack of publicly available datasets pertaining to menstrual cycles. We had to preprocess the data since it was organized in such a way that only the first row for each client would contain data that would remain the same for the client (eg. age, height, etc). After this was taken care of we conducted an analysis of the dataset with:
