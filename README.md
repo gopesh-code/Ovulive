@@ -51,8 +51,8 @@ We used the Menstrual Cycle Data (Fehring, Richard 2012) for our analysis. While
 
 
 ## Results
-![alt text](result1.png "Result 1")
-![alt text](result2.png "Result 1")
+![alt text](result1.jpg "Result 1")
+![alt text](result2.jpg "Result 1")
 ## Project Workflow
 
 **Tools Used**
