@@ -105,7 +105,7 @@ Features/Functionalities | `Launched` | All the features we require in the app, 
 Design and Layout | `Launched` | The General UI/UX layout will be created once the functionalities are finalized, Angela along with Shruti will work on a suitable UI design for a cross-platform application (Android & IOS).
 Website | `Started on with` | Nithin would be focusing on the initial website which would display the idea and concept of the application and then the deployment would be aided by Gopesh and Adam.
 Front-End Development | `Started with the design` | Once all the features/functionalities and requirements are discussed and finalized, Angela, Adam, Gopesh, Nithin, Shruti will be working on the front end (Client-side) of the application to complete each page of the application. This part of the project should take around 25 days – 1.5 months (depending on the functionalities).
-Back-End Development | `Not Started` | Gopesh and Adam will work on the back-end (server-side) part of the project which will span over a month and a half. Apart from this, setting up the database would be Nithin, Gopesh, and Adam’s part.
+Back-End Development | `Started` | Gopesh and Adam will work on the back-end (server-side) part of the project which will span over a month and a half. Apart from this, setting up the database would be Nithin, Gopesh, and Adam’s part.
 Testing | `Not Started` | To be started once the application is deployed.
 
 ## Project Overview
