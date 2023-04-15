@@ -53,6 +53,16 @@ We used the Menstrual Cycle Data (Fehring, Richard 2012) for our analysis. While
 
 
 ## Results
+On comparison of different algorithms, we have found that the Gradient Boosting Regressor is the most suitable algorithm for period analysis according to the metrics like mean squared error, R2 score and Mean Poisson Deviance. The following result has been obtained:
+• Mean Squared Error: 4.199966970581251
+• Mean Absolute Error: 1.507971209647146
+• Median Absolute Error: 1.101829116695658
+• Explained Variance Score: 0.7041641951676936
+• Max Error: 5.843127817959253
+• Mean Poisson Deviance: 0.13602191068145067
+• Mean Gamma Deviance: 0.004462618410575977
+• R2 Score: 0.7017534827057957
+
 ![alt text](result1.jpg "Result 1")
 ![alt text](result2.jpg "Result 1")
 ## Project Workflow
