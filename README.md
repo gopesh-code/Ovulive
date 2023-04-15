@@ -48,6 +48,8 @@ We used the Menstrual Cycle Data (Fehring, Richard 2012) for our analysis. While
 - Median Absolute Error (MedAE): MedAE measures the median of the absolute differences between the predicted and actual values of the target variable. MedAE could provide a robust measure of prediction accuracy, especially when dealing with potential outliers in menstrual data.
 - Explained Variance Score: Explained Variance Score measures the proportion of the variance in the target variable that is explained by the model’s predictions. a higher explained variance score would indicate that the app’s predictions are able to explain a larger proportion of the variability in menstrual period timing, suggesting better accuracy.
 - Max Error: Max Error measures the maximum absolute difference between the predicted and actual values of the target variable. a smaller Max Error value would indicate lower maximum prediction errors, suggesting more accurate predictions and better performance of the app.
+- Mean Poisson Deviance and Mean Gamma Deviance: Mean Poisson Deviance and Mean Gamma Deviance are evaluation metrics commonly used for count data and gamma distributed data, respectively.
+- R2 Score: R2 Score, or the coefficient of determination, measures the proportion of the variance in the target variable that is explained by the model. It is a widely used metric for regression problems, including period prediction apps.
 
 
 ## Results
