@@ -19,6 +19,9 @@ School of Computer Science and Engineering, Vellore Institute of Technology, Vel
 ## Comparative Analysis
 Irregular or unpredictable menstrual cycles can cause inconvenience and discomfort for many women. A period prediction algorithm can aid in managing menstrual health effectively by providing advance notice of upcoming periods. This can help women be better prepared with necessary supplies, manage symptoms such as pain or mood swings, and avoid unexpected disruptions in their daily routines. For women who are trying to conceive or avoid pregnancy, accurate prediction of menstrual cycles can be crucial. A period prediction algorithm can aid in fertility tracking and family planning by helping women identify their fertile window and plan intercourse or contraception accordingly. This can assist couples in achieving or avoiding pregnancy as per their preferences.
 
+The unpredictability of menstrual cycles can impact women’s mental health, causing stress, anxiety, and mood swings. By providing accurate period predictions, a period prediction algorithm can help women better manage their emotional well-being by reducing uncertainty and promoting a sense of control over their menstrual cycles. 
+A period prediction algorithm can be a valuable addition to the growing field of digital health, providing women with a convenient and accessible tool to track their menstrual cycles using smartphones or other devices. This can promote the adoption of digital health solutions and contribute to the advancement of women’s health care. Period prediction algorithms have the potential to be personalized to individual women’s health data, such as menstrual cycle length, flow, and symptoms.
+
 ## Project Workflow
 
 **Tools Used**
