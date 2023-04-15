@@ -49,6 +49,10 @@ We used the Menstrual Cycle Data (Fehring, Richard 2012) for our analysis. While
 - Explained Variance Score: Explained Variance Score measures the proportion of the variance in the target variable that is explained by the model’s predictions. a higher explained variance score would indicate that the app’s predictions are able to explain a larger proportion of the variability in menstrual period timing, suggesting better accuracy.
 - Max Error: Max Error measures the maximum absolute difference between the predicted and actual values of the target variable. a smaller Max Error value would indicate lower maximum prediction errors, suggesting more accurate predictions and better performance of the app.
 
+
+## Results
+![alt text](result1.png "Result 1")
+![alt text](result2.png "Result 1")
 ## Project Workflow
 
 **Tools Used**
