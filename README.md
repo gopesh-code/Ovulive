@@ -33,6 +33,22 @@ A period prediction algorithm can be a valuable addition to the growing field of
 
 - Support Vector Regression (SVR): Support Vector Regression is a powerful algorithm for menstrual prediction models that can accurately predict the length of menstrual cycles based on historical data. SVR requires data preparation, feature engineering, model training, model evaluation, hyperparameter tuning, and model deployment. SVR models can be created using machine learning libraries such as scikit-learn in Python, and hyperparameters such as the kernel type, regularization parameter, and epsilon need to be tuned to optimize the model’s performance.
 
+
+## Analysis
+We used the Menstrual Cycle Data (Fehring, Richard 2012) for our analysis. While there was less data than we would have liked to have, it was the best option we found due to the severe lack of publicly available datasets pertaining to menstrual cycles. We had to preprocess the data since it was organized in such a way that only the first row for each client would contain data that would remain the same for the client (eg. age, height, etc). After this was taken care of we conducted an analysis of the dataset with:
+- SGD Regressor (R2 Score = 0.637)
+- Random Forest Regressor (R2 Score = 0.659)
+- Support Vector Regressor (R2 Score = 0.602)
+- Gradient Boosting Regressor (R2 Score = 0.659)
+
+
+## Metrics Used
+- Mean Squared Error (MSE): MSE measures the average squared difference between the predicted and actual values of the target variable. It would quantify how well the app’s predictions match the actual timing of menstrual periods. A lower MSE value indicates more accurate predictions, with smaller errors between predicted and actual values.
+- Mean Absolute Error (MAE): MAE measures the average absolute difference between the predicted and actual values of the target variable. A lower MAE value would indicate smaller average errors in predicting the timing of menstrual periods, which could be beneficial for improving the app’s performance.
+- Median Absolute Error (MedAE): MedAE measures the median of the absolute differences between the predicted and actual values of the target variable. MedAE could provide a robust measure of prediction accuracy, especially when dealing with potential outliers in menstrual data.
+- Explained Variance Score: Explained Variance Score measures the proportion of the variance in the target variable that is explained by the model’s predictions. a higher explained variance score would indicate that the app’s predictions are able to explain a larger proportion of the variability in menstrual period timing, suggesting better accuracy.
+- Max Error: Max Error measures the maximum absolute difference between the predicted and actual values of the target variable. a smaller Max Error value would indicate lower maximum prediction errors, suggesting more accurate predictions and better performance of the app.
+
 ## Project Workflow
 
 **Tools Used**
