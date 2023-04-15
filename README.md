@@ -74,6 +74,8 @@ On comparison of different algorithms, we have found that the Gradient Boosting 
 ![alt text](result1.jpg "Result 1")
 ![alt text](result2.jpg "Result 1")
 
+
+## Website Documentation from here on
 ## Project Workflow
 
 **Tools Used**
