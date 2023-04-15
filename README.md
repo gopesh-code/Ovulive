@@ -22,6 +22,9 @@ Irregular or unpredictable menstrual cycles can cause inconvenience and discomfo
 The unpredictability of menstrual cycles can impact women’s mental health, causing stress, anxiety, and mood swings. By providing accurate period predictions, a period prediction algorithm can help women better manage their emotional well-being by reducing uncertainty and promoting a sense of control over their menstrual cycles. 
 A period prediction algorithm can be a valuable addition to the growing field of digital health, providing women with a convenient and accessible tool to track their menstrual cycles using smartphones or other devices. This can promote the adoption of digital health solutions and contribute to the advancement of women’s health care. Period prediction algorithms have the potential to be personalized to individual women’s health data, such as menstrual cycle length, flow, and symptoms.
 
+## Dataset and Code for this analysis
+- Dataset is named as "
+
 ## Methods used for this comparative analysis
 - SGD Regressor: SGD (Stochastic Gradient Descent) Regressor is a type of linear regression algorithm that is particularly well-suited for large datasets or datasets with a high number of features. It updates the model parameters using a small subset of the data at a time, making it computationally efficient and scalable. SGD Regressor uses gradient descent optimization to minimize the error between the predicted and actual target values, allowing it to learn from the data and make predictions for menstrual cycle lengths or other relevant variables based on historical data.
 
