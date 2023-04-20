@@ -4,9 +4,10 @@
 import pandas as pd
 
 INPUT_FILE = "./FedCycleData071012 (2).csv"
-OUTPUT_FILE = "./FedCycleData071012 (2)_fixed.csv"
-COLUMNS_TO_FIX = ['MeanCycleLength', 'MeanMensesLength', 'MeanBleedingIntensity', 'Age', 'Religion', 'Ethnicity', 'Height', 'Weight']
+OUTPUT_FILE = "./FedCycleData071012 (2)_new_fixed.csv"
+# COLUMNS_TO_FIX = ['MeanCycleLength', 'MeanMensesLength', 'MeanBleedingIntensity', 'Age', 'Religion', 'Ethnicity', 'Height', 'Weight', ]
 
+COLUMNS_TO_FIX = ["MeanCycleLength","MeanMensesLength","MeanBleedingIntensity","Age","AgeM","Maristatus","MaristatusM","Yearsmarried","Wedding","Religion","ReligionM","Ethnicity","EthnicityM","Schoolyears","SchoolyearsM","OccupationM","IncomeM","Height","Weight","Reprocate","Numberpreg","Livingkids","Miscarriages","Abortions","Medvits","Medvitexplain","Gynosurgeries","LivingkidsM","Boys","Girls","MedvitsM","MedvitexplainM","Urosurgeries","Breastfeeding","Method","Prevmethod","Methoddate","Whychart","Nextpreg","NextpregM","Spousesame","SpousesameM","Timeattemptpreg","BMI"]
 # empty space " " should be replaced with NaN
 df = pd.read_csv(INPUT_FILE, na_values=[' '])
 
