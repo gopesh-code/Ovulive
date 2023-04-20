@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet" />
+  <script data-ad-client="ca-pub-8354103933180400" async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <title>Document</title>
+</head>
+<style>
+  body {
+    font-family: "Baloo Thambi 2", cursive;
+  }
+
+  input.placeholder {
+    text-align: center;
+  }
+
+  #right {
+    float: right;
+    width: 120px;
+  }
+</style>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="/"><strong>PeriodsDateReminder</strong></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{% url 'add_form' %}">Add Data</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              About & Help
+            </a>
+
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+              <a rel="noopener noreferrer" target="_blank" class="dropdown-item"
+                href="ttps://github.com/https://gopesh-code">Developer</a>
+
+
+            </div>
+          </li>
+          <li class="nav-item">
+            <a rel="noopener noreferrer" class="nav-link"
+              href="" target="_blank">Open Source</a>
+          </li>
+
+          <a class="btn btn-light" href=" http://127.0.0.1:8000/" role="button">Go Back Home</a>
+        
+        </ul>
+      </div>
+
+
+    </div>
+  </nav>
+
+
+  <div>
+
+    {% block content %} {% endblock %}
+  </div>
+
+</body>
+
+</html>

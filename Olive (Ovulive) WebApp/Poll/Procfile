@@ -1,0 +1,1 @@
+web gunicorn Poll.wsgi --log-file -

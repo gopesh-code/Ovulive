@@ -1,0 +1,1 @@
+web: gunicorn PeriodsDateReminder.wsgi --log-file -

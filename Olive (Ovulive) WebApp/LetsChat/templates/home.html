@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% load static %}
+<style>
+body {
+  margin: 0 auto;
+  /* max-width: 800px; */
+  /* padding: 0 20px; */
+  font-family: sans-serif;
+  background: #45232b;
+}
+
+.container {
+  border: 2px solid #263238;
+    background: #a76f7f;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    height: 100%;
+
+}
+
+.darker {
+  border-color: #ccc;
+  background-color: #ddd;
+}
+
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.container img {
+  float: left;
+  max-width: 60px;
+  width: 100%;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.container img.right {
+  float: right;
+  margin-left: 20px;
+  margin-right:0;
+}
+
+.time-right {
+  float: right;
+  color: #aaa;
+}
+
+.time-left {
+  float: left;
+  color: #999;
+}
+</style>
+</head>
+<body>
+
+<div style="text-align: center;
+background: #ffa4a4d9;
+padding: 1rem;" >
+  
+    <h2 style="color: white; font-size: 2rem;">Let's Chat</h2>
+  
+</div>
+
+
+
+<div class="container">
+    <style>
+     
+    input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1.3rem;
+    box-sizing: border-box;
+    }
+
+    input[type=submit] {
+    width: 100%;
+   background-color: #e7aaaaed;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    }
+
+    input[type=submit]:hover {
+    background-color:#512632;
+    }
+
+    div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    }
+    .chat{
+      display: flex;
+    background: #f3aeae;
+     
+    }
+    .roomnames, .roomdetails{
+      background: transparent;
+    border: 1px solid gray;
+    }
+    .roomnames p{
+      color: white;
+    width: 15rem;
+    font-size: 1rem;
+    /* border: 1px solid gray; */
+    padding: 10px 15px;
+    border-radius: 5px;
+    /* text-align: center; */
+    /* margin-left: 8rem; */
+      
+
+    }
+    .roomdetails label{
+      color: white;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+    }
+    .leftside{
+      flex: 0.5;
+    margin: 1rem;
+    border: 2px solid #795548;
+
+    background: linear-gradient( hsl(0 0% 0% / 0), hsl(0 0% 0% / 0.3) 20% ,#68484e );
+
+    }
+    .rightside{
+      flex: 0.5;
+    margin: 1rem;
+    border: 2px solid #795548;
+
+    background: linear-gradient( hsl(0 0% 0% / 0), hsl(0 0% 0% / 0.3) 20% ,#68484e );
+
+    }
+    
+    .rightside h1{
+      color: white;
+      text-align: center;
+    }
+    .leftside h1{
+      color: white;
+      text-align: center;
+    }
+    </style>
+    <div class="chat">
+      <div class="leftside">
+        <h1>ChatRooms</h1>
+        <div class="roomnames">
+         <p> <img style="width: 2rem;" src="https://i.pinimg.com/originals/01/1c/ae/011cae25aa495607f8dc2a0ddaeb6372.png" alt=""> Periods</p>
+         <p> <img style="width: 2rem;" src="https://i.pinimg.com/originals/01/1c/ae/011cae25aa495607f8dc2a0ddaeb6372.png" alt=""> Pcos/Pcod</p>
+         <p><img style="width: 2rem;" src="https://i.pinimg.com/originals/01/1c/ae/011cae25aa495607f8dc2a0ddaeb6372.png" alt=""> Girls Talk</p>
+         <p><img style="width: 2rem;" src="https://i.pinimg.com/originals/01/1c/ae/011cae25aa495607f8dc2a0ddaeb6372.png" alt=""> Hygiene</p>
+         <p><img style="width: 2rem;" src="https://i.pinimg.com/originals/01/1c/ae/011cae25aa495607f8dc2a0ddaeb6372.png" alt=""> Self Care</p>
+         <p><img style="width: 2rem;" src="https://i.pinimg.com/originals/01/1c/ae/011cae25aa495607f8dc2a0ddaeb6372.png" alt=""> Dr. Mohan's Chatroom</p>
+
+        </div>
+        <a class="btn btn-light" href=" http://127.0.0.1:8000/" role="button">Home</a>
+
+
+      </div>
+      <div class="rightside">
+        <h1>Enter Room Details</h1>
+        <div class="roomdetails">
+          <form id="post-form" method="POST" action="checkview">
+            {% csrf_token %}
+            <label>Room Name</label>
+            <input type="text" name="room_name" id="room_name" width="100px" />
+            <label>Username</label>
+            <input type="text" name="username" id="username" width="100px" />
+            <input type="submit" value="Enter Room">
+        </form>
+
+        </div>
+       
+
+      </div>
+    </div>
+
+    
+</div>
+
+
+</body>
+
+
+</html>

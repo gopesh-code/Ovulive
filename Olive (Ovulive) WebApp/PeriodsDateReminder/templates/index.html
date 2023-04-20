@@ -1,0 +1,38 @@
+<head>
+    <title>Home | Periods Date Reminder</title>
+</head>
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="addbox"style="margin: 2rem 4rem;
+align-items: center;
+border: 2px solid red;
+background: pink;
+padding: 2rem 2rem;
+border-radius: 13px;">
+    <h1  style="color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;">Periods Date Reminder</h1>
+<main>
+    <br>
+    <div class="addmain" >
+
+        <p style="font-weight: bold;
+        font-size: 2rem;"> Periods Date Reminder is an automatic periods date reminder that sends email to you on your incoming dates.</p>
+       <br><strong style="font-size: 24px;">Don't forget your date, It's important.</strong>
+        <p >
+            <a style="    font-size: 21px;
+            border: 2px solid black;
+            width: 8rem;
+            background: indianred;
+            color: white;
+            border-radius: 8px;"  class="nav-link" href="{% url 'add_form' %}">Add Data</a>
+        </p>
+    </div>
+</main>
+
+</div>
+
+
+{%  endblock %}
